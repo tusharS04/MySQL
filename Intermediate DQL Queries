@@ -6,4 +6,4 @@
  -- Find an employee born in october
  select * from employee where birth_day like '____-10%';
  
- 
+ --More to be added
